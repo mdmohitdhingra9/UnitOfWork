@@ -1,0 +1,14 @@
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\obj\Debug\UnitofWork.Dal.csprojResolveAssemblyReference.cache
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitofWork.Dal.dll.config
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitofWork.Dal.dll
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitofWork.Dal.pdb
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\EntityFramework.dll
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitofWork.Core.Interfaces.dll
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitOfWork.Models.dll
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\EntityFramework.xml
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitofWork.Core.Interfaces.pdb
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\bin\Debug\UnitOfWork.Models.pdb
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\obj\Debug\UnitofWork.Dal.dll
+C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitofWork.Dal\obj\Debug\UnitofWork.Dal.pdb
