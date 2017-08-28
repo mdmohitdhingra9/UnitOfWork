@@ -33,3 +33,6 @@ C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern
 C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitOfWork_DesignPattern\obj\Debug\UnitOfWork_DesignPattern.UI.csprojResolveAssemblyReference.cache
 C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitOfWork_DesignPattern\obj\Debug\UnitOfWork_DesignPattern.exe
 C:\Users\mdhingra\documents\visual studio 2017\Projects\UnitOfWork_DesignPattern\UnitOfWork_DesignPattern\obj\Debug\UnitOfWork_DesignPattern.pdb
+C:\GitRepo\UnitofWork\UnitOfWork_DesignPattern\bin\Debug\UnitOfWork_DesignPattern.exe.config
+C:\GitRepo\UnitofWork\UnitOfWork_DesignPattern\obj\Debug\UnitOfWork_DesignPattern.exe
+C:\GitRepo\UnitofWork\UnitOfWork_DesignPattern\obj\Debug\UnitOfWork_DesignPattern.pdb
